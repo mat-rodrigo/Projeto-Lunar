@@ -1,0 +1,20 @@
+# Ignorar arquivos temporários
+Temp/
+*.tmp
+
+# Ignorar configurações locais do VS Code
+.vscode/
+
+# Ignorar builds e bibliotecas Unity
+Library/
+Logs/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+.vs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
